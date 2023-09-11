@@ -53,6 +53,10 @@ h1, h2, h3, h4, p{
     margin-top: 0px;
 }
 
+#gift-img-genius {
+    height: 200px;
+}
+
 #gift-img-cheers {
     height: 200px;
 }
